@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "rootDirectory": "miniapp",
+  "build": {
+    "env": {
+      "NODE_ENV": "production"
+    }
+  }
+}
