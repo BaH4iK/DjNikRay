@@ -6,10 +6,10 @@ const photos = [
   '/portfolio/bem.png',
   '/portfolio/gu.png',
   '/portfolio/gri.png',
-  '/portfolio/por.png',
+  '/portfolio/pora.png',
   '/portfolio/trey.png',
   '/portfolio/werq.png',
-  '/portfolio/uie.png',
+  '/portfolio/uiee.png',
 ];
 
 export default function Portfolio() {
